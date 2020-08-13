@@ -21,7 +21,7 @@
     "static/css/6.7068c3a8.chunk.css": "/digit-pwa/static/css/6.7068c3a8.chunk.css",
     "static/js/6.ee91ab9b.chunk.js": "/digit-pwa/static/js/6.ee91ab9b.chunk.js",
     "6.js.map": "/digit-pwa/6.js.map",
-    "main.js": "/digit-pwa/static/js/main.141ebc6a.chunk.js",
+    "main.js": "/digit-pwa/static/js/main.d2c6ddc0.chunk.js",
     "main.js.map": "/digit-pwa/main.js.map",
     "runtime-main.js": "/digit-pwa/static/js/runtime-main.781897c2.js",
     "runtime-main.js.map": "/digit-pwa/runtime-main.js.map",
@@ -63,7 +63,7 @@
     "static/js/21.81484c92.chunk.js": "/digit-pwa/static/js/21.81484c92.chunk.js",
     "21.js.map": "/digit-pwa/21.js.map",
     "index.html": "/digit-pwa/index.html",
-    "precache-manifest.cf0dc5e67278d2d2d8fb371a41de191d.js": "/digit-pwa/precache-manifest.cf0dc5e67278d2d2d8fb371a41de191d.js",
+    "precache-manifest.605de7ce4391791ac9ab3af7195c96f3.js": "/digit-pwa/precache-manifest.605de7ce4391791ac9ab3af7195c96f3.js",
     "service-worker.js": "/digit-pwa/service-worker.js",
     "static/css/0.90d83ca7.chunk.css.map": "/digit-pwa/static/css/0.90d83ca7.chunk.css.map",
     "static/css/1.878a754e.chunk.css.map": "/digit-pwa/static/css/1.878a754e.chunk.css.map",
@@ -109,6 +109,6 @@
   "entrypoints": [
     "static/js/runtime-main.781897c2.js",
     "static/js/12.316f33df.chunk.js",
-    "static/js/main.141ebc6a.chunk.js"
+    "static/js/main.d2c6ddc0.chunk.js"
   ]
 }
