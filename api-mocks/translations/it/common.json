@@ -1,0 +1,9 @@
+{
+  "hello": "Ciao Mondo",
+  "cities": "Città",
+  "city.list": {
+    "city1": "Torino",
+    "city2": "Milano"
+  },
+  "Page not found": "Pagina non trovata"
+}

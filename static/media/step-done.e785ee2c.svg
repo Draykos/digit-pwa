@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="step-done" transform="translate(0.7829895 0.7830048)">
+    <g id="Group">
+      <path d="M11.7452 0C7.54925 0 3.67225 2.239 1.57425 5.872C-0.52475 9.506 -0.52475 13.984 1.57425 17.618C3.67225 21.251 7.54925 23.49 11.7452 23.49C15.9412 23.49 19.8183 21.251 21.9163 17.618C24.0152 13.984 24.0152 9.506 21.9163 5.872C19.8183 2.24 15.9412 0 11.7452 0L11.7452 0Z" id="Shape" fill="#FFFFFF" stroke="none" />
+      <path d="M9.543 2.38419e-07C4.273 2.38419e-07 0 4.273 0 9.543C0 14.813 4.273 19.086 9.543 19.086C14.813 19.086 19.086 14.813 19.086 9.543C19.086 4.273 14.813 0 9.543 0L9.543 2.38419e-07Z" transform="translate(2.20224 2.201996)" id="Shape" fill="#CCF3E2" stroke="none" />
+      <path d="M11.7452 0C7.54925 0 3.67225 2.239 1.57425 5.872C-0.52475 9.506 -0.52475 13.984 1.57425 17.618C3.67225 21.251 7.54925 23.49 11.7452 23.49C15.9412 23.49 19.8183 21.251 21.9163 17.618C24.0152 13.984 24.0152 9.506 21.9163 5.872C19.8183 2.24 15.9412 0 11.7452 0L11.7452 0Z" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="0.75" />
+      <path d="M0 4.435L2.598 6.75L8.437 0" transform="translate(7.313263 8.438004)" id="Shape" fill="none" stroke="#00C570" stroke-width="1.566" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>

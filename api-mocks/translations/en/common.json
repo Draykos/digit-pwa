@@ -1,0 +1,9 @@
+{
+  "hello": "Hello World",
+  "cities": "Cities",
+  "city.list": {
+    "city1": "Turin",
+    "city2": "Milan"
+  },
+  "Page not found": "Page not found"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="17px" viewBox="0 0 32 17" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Triangle_stroke" transform="translate(0.5 0.5)">
+    <g id="Group">
+      <path d="M16.3843 0.642926L30 14.9577L30 14.9577L-2.01097e-15 14.9577L13.6157 0.642926C14.431 -0.214309 15.569 -0.214309 16.3843 0.642926L16.3843 0.642926Z" transform="translate(0 0.9035034)" id="Shape" fill="#F4F7FC" fill-rule="evenodd" stroke="none" />
+      <path d="M0 14.9577L13.6157 0.642926C14.431 -0.214309 15.569 -0.214309 16.3843 0.642926L30 14.9577L30 14.9577" transform="translate(0.001098633 0)" id="Shape" fill="none" fill-rule="evenodd" stroke="#00014F" stroke-opacity="0.149019614" stroke-width="1" />
+    </g>
+  </g>
+</svg>
